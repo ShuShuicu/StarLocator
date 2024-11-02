@@ -71,3 +71,7 @@ NOTHING to do with astrology, metaphysics and telepathy.
 - hanran
 - Charmian
 - Yisan5772156
+
+## 国内镜像节点丨China accelerates
+ - 白山节点 https://starlocator.x-x.work/
+ - 网宿节点 https://starlocator-ws.x-x.work/
