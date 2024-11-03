@@ -73,5 +73,6 @@ NOTHING to do with astrology, metaphysics and telepathy.
 - Yisan5772156
 
 ## 国内镜像节点丨China accelerates
- - 白山节点 https://starlocator.x-x.work/
- - 网宿节点 https://starlocator-ws.x-x.work/
+ - 白山云节点 https://starlocator.x-x.work/
+ - 网宿科技节点 https://starlocator-ws.x-x.work/
+ - 白山教育网节点 https://starlocator-edu.x-x.work/
