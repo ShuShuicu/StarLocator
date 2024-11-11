@@ -35,4 +35,10 @@ module.exports = {
       filename: 'help.html', // 设置生成的HTML文件名
     })
   ],
+  devServer: {
+    // 配置禁止 Invalid Host header
+     allowedHosts: ['localhost', 'starlocator.x-x.work', 'starlocator-ws.x-x.work', 'starlocator-edu.x-x.work'],
+     disableHostCheck: true,
+     port: 6974
+  },
 };
